@@ -1,0 +1,37 @@
+{
+  "name": "california-candy-cultivators",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint . --max-warnings=0",
+    "check": "npm run lint && npm run build",
+    "secret": "node -e \"console.log(require('node:crypto').randomBytes(48).toString('hex'))\"",
+    "fonts:sync": "node -e \"const f=require('node:fs');for(const w of [300,400,500,600])f.copyFileSync(`node_modules/@fontsource/archivo/files/archivo-latin-${w}-normal.woff2`,`app/fonts/archivo-latin-${w}-normal.woff2`);f.copyFileSync('node_modules/@fontsource/archivo-black/files/archivo-black-latin-400-normal.woff2','app/fonts/archivo-black-latin-400-normal.woff2');console.log('fonts synced')\"",
+    "check:supabase": "node --env-file=.env.local scripts/check-supabase.mjs",
+    "seed": "node --env-file=.env.local scripts/seed-supabase.mjs",
+    "seed:verify": "node --env-file=.env.local scripts/seed-supabase.mjs --verify",
+    "seed:clean": "node --env-file=.env.local scripts/seed-supabase.mjs --clean",
+    "test:matrix": "node scripts/test-matrix.mjs"
+  },
+  "dependencies": {
+    "@fontsource/archivo": "^5.2.5",
+    "@fontsource/archivo-black": "^5.2.5",
+    "@supabase/supabase-js": "2.112.4",
+    "next": "15.5.24",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "eslint": "8.57.1",
+    "eslint-config-next": "15.5.24"
+  },
+  "allowScripts": {
+    "unrs-resolver@1.12.2": true
+  }
+}
