@@ -1,0 +1,211 @@
+{
+  "strains": [
+    {
+      "slug": "gelato-41",
+      "name": "Gelato 41",
+      "parentA": "Sunset Sherbet",
+      "parentB": "Thin Mint GSC",
+      "flavor": [
+        "Sweet",
+        "Creamy",
+        "Gas"
+      ],
+      "status": "AVAILABLE",
+      "qty": 42,
+      "visible": true,
+      "featured": true,
+      "sort": 0,
+      "batchName": "Candy Room 04",
+      "batchNo": "CCC-G41-0426",
+      "harvest": "Apr 2026",
+      "release": "",
+      "teaser": "",
+      "aroma": "Sherbet, cold cream, faint diesel",
+      "appearance": "Dense, purple-shot, heavy frost",
+      "cultivation": "Indoor, 9-week flower, hand-trimmed, 14-day slow cure",
+      "description": "The batch the room is named after. Cold sherbet on the nose, a gas note that arrives late, and a cure slow enough to keep every terpene where it belongs."
+    },
+    {
+      "slug": "candy-paint",
+      "name": "Candy Paint",
+      "parentA": "Zkittlez",
+      "parentB": "Grape Gas",
+      "flavor": [
+        "Berry",
+        "Sugar",
+        "Fuel"
+      ],
+      "status": "AVAILABLE",
+      "qty": 28,
+      "visible": true,
+      "featured": false,
+      "sort": 1,
+      "batchName": "Candy Room 05",
+      "batchNo": "CCC-CDP-0426",
+      "harvest": "Apr 2026",
+      "release": "",
+      "teaser": "",
+      "aroma": "Crushed berry, solvent, violet",
+      "appearance": "Glossy, deep violet bracts",
+      "cultivation": "Indoor, 10-week flower, single-plant selection from a 40-seed hunt",
+      "description": "A hunt keeper. Loud fruit up front, fuel underneath, and the gloss that gave it the name."
+    },
+    {
+      "slug": "sherbhead",
+      "name": "Sherbhead",
+      "parentA": "Sherbinski's Mint",
+      "parentB": "Headband",
+      "flavor": [
+        "Citrus",
+        "Mint",
+        "Pine"
+      ],
+      "status": "LOW STOCK",
+      "qty": 6,
+      "visible": true,
+      "featured": false,
+      "sort": 2,
+      "batchName": "Candy Room 03",
+      "batchNo": "CCC-SHB-0326",
+      "harvest": "Mar 2026",
+      "release": "",
+      "teaser": "",
+      "aroma": "Lime peel, mint, resin",
+      "appearance": "Spear-shaped, pale green, long pistils",
+      "cultivation": "Indoor, 9-week flower, low-stress trained",
+      "description": "Bright and structural. Mint and lime peel over an old-school resin backbone."
+    },
+    {
+      "slug": "peach-ringz",
+      "name": "Peach Ringz",
+      "parentA": "Peach Ozz",
+      "parentB": "Runtz",
+      "flavor": [
+        "Stonefruit",
+        "Sugar",
+        "Cream"
+      ],
+      "status": "SOLD OUT",
+      "qty": 0,
+      "visible": false,
+      "featured": false,
+      "sort": 3,
+      "batchName": "Candy Room 02",
+      "batchNo": "CCC-PRZ-0226",
+      "harvest": "Feb 2026",
+      "release": "",
+      "teaser": "",
+      "aroma": "Peach skin, sugar, whipped cream",
+      "appearance": "Round, orange-haired, sticky",
+      "cultivation": "Indoor, 9-week flower, small 12-plant run",
+      "description": "A twelve-plant run that went quickly. Peach skin and sugar, almost no green in the profile."
+    },
+    {
+      "slug": "blue-taffy",
+      "name": "Blue Taffy",
+      "parentA": "Blue Zushi",
+      "parentB": "Pink Certz",
+      "flavor": [
+        "Candy",
+        "Floral",
+        "Menthol"
+      ],
+      "status": "AVAILABLE",
+      "qty": 19,
+      "visible": true,
+      "featured": false,
+      "sort": 4,
+      "batchName": "Candy Room 05",
+      "batchNo": "CCC-BTF-0426",
+      "harvest": "Apr 2026",
+      "release": "",
+      "teaser": "",
+      "aroma": "Taffy, lilac, cool menthol",
+      "appearance": "Ice-blue frost over dark leaf",
+      "cultivation": "Indoor, 10-week flower, cool-finish for color expression",
+      "description": "Finished cool to pull the color forward. Taffy and lilac with a menthol edge on the exhale."
+    },
+    {
+      "slug": "sunset-rntz",
+      "name": "Sunset Rntz",
+      "parentA": "Runtz",
+      "parentB": "Sunset Sherbet",
+      "flavor": [
+        "Tropical",
+        "Gas",
+        "Vanilla"
+      ],
+      "status": "COMING SOON",
+      "qty": 0,
+      "visible": true,
+      "featured": false,
+      "sort": 5,
+      "batchName": "Candy Room 06",
+      "batchNo": "CCC-SRZ-0526",
+      "harvest": "May 2026",
+      "release": "May 2026",
+      "teaser": "In cure now. Tropical and creamy with the gas note the Runtz side always brings.",
+      "aroma": "Mango, vanilla bean, faint gas",
+      "appearance": "Chunky, cream-colored trichome cover",
+      "cultivation": "Indoor, 10-week flower, currently in cure",
+      "description": "Tropical and creamy with the gas note the Runtz side always brings."
+    },
+    {
+      "slug": "cotton-gas",
+      "name": "Cotton Gas",
+      "parentA": "Cotton Candy Cookies",
+      "parentB": "Jet Fuel Gelato",
+      "flavor": [
+        "Candy",
+        "Fuel",
+        "Cream"
+      ],
+      "status": "COMING SOON",
+      "qty": 0,
+      "visible": true,
+      "featured": false,
+      "sort": 6,
+      "batchName": "Candy Room 07",
+      "batchNo": "CCC-CTG-0626",
+      "harvest": "Jun 2026",
+      "release": "June 2026",
+      "teaser": "Two rooms of pheno work, narrowed to a single keeper. Cotton candy nose, jet fuel finish.",
+      "aroma": "Cotton candy, jet fuel, cream",
+      "appearance": "Chunky, pale, heavy frost",
+      "cultivation": "Indoor, 10-week flower, in cure",
+      "description": "Cotton candy nose, jet fuel finish."
+    }
+  ],
+  "inquiries": [
+    {
+      "id": "inq-1",
+      "name": "R. Alvarez",
+      "email": "ralvarez@example.com",
+      "phone": "+1 (415) 555-0114",
+      "strain": "Gelato 41",
+      "message": "Interested in current availability.",
+      "status": "NEW",
+      "createdAt": "2026-08-24T17:02:00.000Z"
+    },
+    {
+      "id": "inq-2",
+      "name": "Sunset Collective",
+      "email": "buyer@example.com",
+      "phone": "+1 (707) 555-0188",
+      "strain": "Candy Paint",
+      "message": "Wholesale terms?",
+      "status": "NEW",
+      "createdAt": "2026-08-23T14:20:00.000Z"
+    },
+    {
+      "id": "inq-3",
+      "name": "M. Okafor",
+      "email": "",
+      "phone": "+1 555 0142",
+      "strain": "Sherbhead",
+      "message": "Any left from Room 03?",
+      "status": "REPLIED",
+      "createdAt": "2026-08-22T09:41:00.000Z"
+    }
+  ]
+}
